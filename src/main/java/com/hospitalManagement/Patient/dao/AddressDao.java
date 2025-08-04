@@ -7,6 +7,8 @@ import com.hospitalManagement.Patient.Jpa.AddrressJpa;
 import com.hospitalManagement.Patient.dto.Address;
 
 @Service
+
+
 public class AddressDao {
 	@Autowired
 	private AddrressJpa addrressJpa;
