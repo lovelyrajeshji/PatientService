@@ -11,9 +11,6 @@ import com.hospitalManagement.Patient.Jpa.PatientJpa;
 import com.hospitalManagement.Patient.dto.Patient;
 
 @Service
-
-
-
 public class PatientDao {
 
 	@Autowired
