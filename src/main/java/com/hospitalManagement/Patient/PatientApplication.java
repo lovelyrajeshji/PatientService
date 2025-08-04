@@ -11,7 +11,11 @@ public class PatientApplication {
 	}
 	@Bean
 	public String hotfixBean(){
+<<<<<<< HEAD
 		return "Hotfix from feature";
+=======
+		return "Hotfix from feature to main";
+>>>>>>> feature
 	}
 
 }
